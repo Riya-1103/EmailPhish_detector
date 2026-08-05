@@ -27,8 +27,8 @@ Backend
 - Numpy
 
 # Prerequisites
-Pyhton 3.x
-Node.js 
+- Pyhton 3.x
+- Node.js 
 
 # Installation
 Backend setup
